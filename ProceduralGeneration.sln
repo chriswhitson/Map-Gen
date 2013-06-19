@@ -1,0 +1,31 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageGeneration", "ImageGeneration\ImageGeneration.csproj", "{67169D32-A5A9-4F3B-87B9-01F599ABB555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Output", "Output\Output.csproj", "{59418F0A-CC4B-4A70-8725-C6ED9A6B4C01}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageLibrary", "ImageLibrary\ImageLibrary.csproj", "{4FE03900-ED9B-44BF-9C46-D8F4D79EFDA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67169D32-A5A9-4F3B-87B9-01F599ABB555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67169D32-A5A9-4F3B-87B9-01F599ABB555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67169D32-A5A9-4F3B-87B9-01F599ABB555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67169D32-A5A9-4F3B-87B9-01F599ABB555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59418F0A-CC4B-4A70-8725-C6ED9A6B4C01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59418F0A-CC4B-4A70-8725-C6ED9A6B4C01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59418F0A-CC4B-4A70-8725-C6ED9A6B4C01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59418F0A-CC4B-4A70-8725-C6ED9A6B4C01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE03900-ED9B-44BF-9C46-D8F4D79EFDA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE03900-ED9B-44BF-9C46-D8F4D79EFDA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE03900-ED9B-44BF-9C46-D8F4D79EFDA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE03900-ED9B-44BF-9C46-D8F4D79EFDA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
